@@ -113,11 +113,9 @@ const Home = () => {
             )}
         </aside>
       </div>
-      <div className="ad-home"></div>
+     
 
-      <div id="footer-home" className="footer">
-        <small>Copyright &copy; Ravichandra Patil</small>
-      </div>
+     
     </div>
   );
 };

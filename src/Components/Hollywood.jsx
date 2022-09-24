@@ -57,9 +57,7 @@ const Hollywood = () => {
           <strong>Advertisement</strong>
         </div>
       </aside>
-      <div id="footer-home" className="footer">
-        <small>Copyright &copy; Ravichandra Patil</small>
-      </div>
+      
     </div>
   );
 };
